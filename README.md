@@ -1,4 +1,4 @@
-#Text-Editor
+# Text-Editor (JATE: Just Another Text Editor)
 
 ## Description
 
@@ -56,11 +56,11 @@ Libraries and packages installed are:
 
 ## Link to Render
 
-https://text-editor-x8i0.onrender.com
+https://pwa-jate-cc3i.onrender.com
 
 ## Questions
 
-- Any questions, comments or concerns can be sent to my [email](j_jenkins1@u.pacific.edu)
-- Check out my [Github](https://github.com/jjenkz)
+- Any questions, comments or concerns can be sent to my [email](lstvn@duck.com)
+- Check out my [Github](https://github.com/LorenzoNolasco)
 # TextEditor
 # PWA_JATE
