@@ -60,7 +60,5 @@ https://pwa-jate-cc3i.onrender.com
 
 ## Questions
 
-- Any questions, comments or concerns can be sent to my [email](lstvn@duck.com)
+- Any questions, comments or concerns can be sent to my lstvn@duck.com
 - Check out my [Github](https://github.com/LorenzoNolasco)
-# TextEditor
-# PWA_JATE
